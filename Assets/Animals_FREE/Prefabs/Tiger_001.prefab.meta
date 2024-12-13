@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: cf7f1989a74b86c4d8527d5676d887eb
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260727
-  packageName: Animals FREE
-  packageVersion: 1.0
-  assetPath: Assets/Animals_FREE/Prefabs/Tiger_001.prefab
-  uploadId: 620366
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eb9726447eed05d9924278bfdd7c7197c4eb241eb80b751e3953bb75a22bb36
+size 337

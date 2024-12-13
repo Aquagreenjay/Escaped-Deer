@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: adb11d902b2436d428d60c75729665a6
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260727
-  packageName: Animals FREE
-  packageVersion: 1.0
-  assetPath: Assets/Animals_FREE/Prefabs/Dog_001.prefab
-  uploadId: 620366
+version https://git-lfs.github.com/spec/v1
+oid sha256:57ac2b1ba1625495feb9d54406dcf9d8b370f185cd9dd503f2195f8fbc722d84
+size 335

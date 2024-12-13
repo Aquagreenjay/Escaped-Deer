@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: bc872a222baa3e541acaf7d390c1e9aa
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260727
-  packageName: Animals FREE
-  packageVersion: 1.0
-  assetPath: Assets/Animals_FREE/Prefabs/Pinguin_001.prefab
-  uploadId: 620366
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd5008fdda12148af39d8beb1c3d23aeb73b90758de33447468a5c7379c3bcbc
+size 339

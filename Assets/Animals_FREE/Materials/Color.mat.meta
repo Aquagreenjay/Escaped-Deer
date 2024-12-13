@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 4bc6206bdc7c5144792f63d943f03532
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260727
-  packageName: Animals FREE
-  packageVersion: 1.0
-  assetPath: Assets/Animals_FREE/Materials/Color.mat
-  uploadId: 620366
+version https://git-lfs.github.com/spec/v1
+oid sha256:058ab3feaa6e8aa586ca3b7af03270ad9c6596037a5cfec91dad2c1dff73d34d
+size 366
